@@ -12,14 +12,8 @@ Hai teman-teman, <b>Todolist</b> adalah sebuah aplikasi untuk mencatat kegiatan,
 - copy file .env.example lalu ubah menjadi .env
 - php artisan key:generate
 
-<h6 class="text-gray">Email (admin/petugas) : perpus@petugas.com</h6>
-<h6 class="text-gray">Password	            : password</h6>
-
-<p>
-    Jika ingin menambahkan admin/petugas bisa ditambahkan secara manual
-    dengan cara mengganti role user/member menjadi petugas di mysql, atau
-    projek ini juga bisa kalian kembangkan sendiri.
-</p>
+<h6 class="text-gray">Username : pangestuk</h6>
+<h6 class="text-gray">Password : rahasia</h6>
 
 Jika ada pertanyaan bisa langsung tanya di Instagram saya di @rizky.pangestu17 , jangan lupa like and follow ya 😏.
 

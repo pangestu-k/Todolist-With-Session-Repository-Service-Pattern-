@@ -3,7 +3,7 @@
 
 ## Detail Aplikasi
 
-Hai teman-teman, sebenernya saya bingung, banyak projek yang sudah saya kerjakan, tapi itu projek dari perusahaan dan bukan projek pribadi, jadi mungkin kedepannya saya harus lebih sering menyempatkan diri untuk membuat projek pribadi, ya mari kita lanjut, <b>Todolist</b> adalah sebuah aplikasi untuk mencatat kegiatan, aplikasi ini menerapkan repository pattern dengan teknik depedency injection, perlu diperhatikan bahwa projek ini sangat sederhana dan tidak menggunakan Database dalam pembuatannya, Projek ini juga masih bisa di kembangkan kembali sesuai dengan keinginan. Syarat untuk clone projek ini simple, kalian cukup like dan follow akun github saya di https://github.com/pangestu-k , ya follow itu gratis gk si.. (¬‿¬)
+Hai teman-teman, sebenarnya saya bingung, banyak projek yang sudah saya kerjakan, tapi itu projek dari perusahaan dan bukan projek pribadi, jadi mungkin kedepannya saya harus lebih sering menyempatkan diri untuk membuat projek pribadi, ya mari kita lanjut, <b>Todolist App</b> adalah sebuah aplikasi untuk mencatat kegiatan, aplikasi ini menerapkan repository pattern dengan teknik depedency injection, perlu diperhatikan bahwa projek ini sangat sederhana dan tidak menggunakan Database dalam pembuatannya, Projek ini juga masih bisa di kembangkan kembali sesuai dengan keinginan. Syarat untuk clone projek ini simple, kalian cukup like dan follow akun github saya di https://github.com/pangestu-k , ya follow itu gratis gk si.. (¬‿¬)
 
 oh iya ini adalah projek yg refrensi dan sumber berasal dari salah satu channel youtube (pada saat saya memperdalam depedency injection):
 https://www.youtube.com/c/ProgrammerZamanNow
